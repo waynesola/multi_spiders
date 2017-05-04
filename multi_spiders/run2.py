@@ -2,7 +2,7 @@
 # coding:utf-8
 
 '''
-Run this script with command 'python run.py'
+Run this script with command 'python run2.py'
 '''
 
 import scrapy
